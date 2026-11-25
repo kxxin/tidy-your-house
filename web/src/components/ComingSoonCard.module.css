@@ -1,0 +1,15 @@
+/* Example of a CSS Module: these class names are scoped to this component only. */
+.card {
+  border: 2px dashed #94a3b8;
+  border-radius: 1rem;
+  aspect-ratio: 16 / 9;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.hint {
+  font-size: 0.875rem;
+  opacity: 0.7;
+}
